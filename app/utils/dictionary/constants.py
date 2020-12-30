@@ -1,0 +1,3 @@
+"""
+constants: for numbers, colors, font names...
+"""

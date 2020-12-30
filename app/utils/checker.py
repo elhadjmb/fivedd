@@ -1,0 +1,3 @@
+"""
+check validity: directory is valid, file exists...
+"""

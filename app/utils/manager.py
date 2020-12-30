@@ -1,0 +1,3 @@
+"""
+file manager: zip, copy, delete ...
+"""

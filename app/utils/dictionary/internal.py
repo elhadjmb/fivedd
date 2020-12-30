@@ -1,0 +1,3 @@
+"""
+internal dictionary: exception messages, log messages...
+"""

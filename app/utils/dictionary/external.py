@@ -1,0 +1,9 @@
+"""
+external dictionary: for outputs (for ui)...
+
+example:
+class external:
+    ...
+    accept = {dictionary.internal.language("english"):"accept",dictionary.internal.language("arabic"):"موافق",...}
+    ...
+"""

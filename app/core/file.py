@@ -1,3 +1,6 @@
+"""
+file: file class (if there are files as features or just to store the file)
+"""
 import os.path
 
 
