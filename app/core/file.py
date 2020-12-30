@@ -11,3 +11,4 @@ class File:
         self.size = os.path.getsize(self.path)
         self.extension = os.path.splitext(self.path)[1]
         self.name = self.file_name.replace(self.extension, "")
+        #  self.file = open(self.path, "r")
